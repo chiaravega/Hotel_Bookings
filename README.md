@@ -1,2 +1,2 @@
-# Hotel_Bookings
+# Hotel Bookings
 Predict if a hotel booking would be canceled or not canceled.
